@@ -1,1 +1,1 @@
-### [Here](/cypress/e2e/API_tests.cy.js) you can view autotests written using `Cypress` for public API https://reqres.in/api.
+### [Here](/cypress/e2e/API_tests.cy.js) you can view autotests written using `Cypress` for the public API https://reqres.in/api.
